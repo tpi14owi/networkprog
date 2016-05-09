@@ -19,7 +19,7 @@ public class TimeServer2 {
 				df = DateFormat.getTimeInstance(DateFormat.SHORT);
 				System.out.println(df.format(date));
 			}
-			
+			//ASDJHNKJEBRFUIDFBBRF
 		}
 		scan.close();
 		/*
